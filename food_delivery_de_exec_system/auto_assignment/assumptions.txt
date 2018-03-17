@@ -1,0 +1,14 @@
+1. Time (Order Time for an order and Last delivery time for a delivery executive) will always be of type
+   datetime and in format - 2018-02-24 03:07:25.654315
+2. Positions will be of type tuple and in format (13.006752, 77.561737) where first value represents
+   latitude and second one represents longitude
+3. For delivery Executives - the delivered_count = random.randint(0, 10) is done for testing purposes. In real life scenario, it will be
+   initialized to 0 and will be updated accordingly
+4. The run.py and auto_assignment_system.py files are created just to simulate the testing envt and showcase the execution of the code.
+5. Assumed all the orders and delivery executives are in the same area for the premium customer strategy. Just considered the delivery
+executive with the least number of deliveries yet, but in real we need to filter among only the delivery executives which belong to the
+area of the restaurant or which are in range of some specified distance.
+
+
+
+

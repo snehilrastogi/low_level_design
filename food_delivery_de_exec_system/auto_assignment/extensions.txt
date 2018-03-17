@@ -1,0 +1,49 @@
+How to scale this approach to whole city ?
+
+To scale the approach to whole city we need to have database tables for the following existing models -
+ -- Order
+ -- Customer
+ -- Delivery Executive
+
+Apart from above three, some other models could be -
+ -- Restaurant - Each order will have a restaurant attached to it and the order locations will be restaurant locations
+ -- Multiple Orders can come from one restaurant
+ -- We can also define the multiple strategies in the database and give them priority.
+ -- The priority can have location attached to it and hence there can be one location model also
+ -- Delivery Executive will also be having restaurants or locations attached to it
+
+
+Run the system --
+
+Each order will go into the table with pending state and its customer and restaurant.
+
+We can get the strategy to fetch mapping for order and delivery executive using some defined attributes like priority which can be a
+factor dependent of area, dates etc.
+
+
+We will need more strategies definitely.
+
+
+How to fetch DEs to be mapped with order ?
+
+
+We can fetch all the free DE's which are in the same city or same area (or may be restaurant-specific) and either check the distance
+from its current location to the resaturant and fetch the nearest one  or can take separate approach to fetch the one with the
+least number of deliveries.
+
+
+Efiiciency Increment in Areas
+
+To implement fetch methods, we can write separate services in order_service and delivery_executive_service and create a new strategy
+or modify the existing one to call these new services.
+
+
+EXTENSIBILITY OF THE CODE --
+
+We can extend the code by creating new services in order_service and delivery_executive_service and create a new strategy and
+initialize the same using strategy factory.
+
+No changes in the existing code , unless we want to change the existing strategy , otherwise create new strategy and
+call the newly implemented services for the same.
+
+
