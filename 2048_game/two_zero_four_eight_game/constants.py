@@ -1,0 +1,9 @@
+WIN = "WIN"
+LOSE = "LOSE"
+NOT_OVER = "NOT OVER"
+
+GAME_STATUSES = {
+    WIN: WIN,
+    LOSE: LOSE,
+    NOT_OVER: NOT_OVER
+}
