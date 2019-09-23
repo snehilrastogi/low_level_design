@@ -1,3 +1,5 @@
+from pip._vendor.distlib.compat import raw_input
+
 from text_editor_system import constants
 from text_editor_system.models.editor import Editor
 from text_editor_system.services.base_service import BaseService
@@ -14,10 +16,10 @@ class MenuService(BaseService):
         redo_stack = []
         while ans:
             print("---- considering 0 based indexing in input ----")
-            print """
+            print ("""
             1. display 2.display(n, m) 3.insert(n, text) 4.delete(n) 5. copy(n, m) 6. paste(n) 7. undo 8.redo 9.delete(n, m)
             10.exit
-            """
+            """)
             ch = input("enter your choice")
 
             if ch == 1:
