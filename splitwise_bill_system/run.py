@@ -1,4 +1,4 @@
-from splitwise_flipkart.services.bill_mgmt_system import BillMgmtSystem
+from splitwise_system.services.bill_mgmt_system import BillMgmtSystem
 
 bills = [
     {

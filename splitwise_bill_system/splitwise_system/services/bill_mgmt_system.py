@@ -1,8 +1,8 @@
 import traceback
 
-from splitwise_flipkart.services.bill_service import BillService
-from splitwise_flipkart.services.group_service import GroupService
-from splitwise_flipkart.services.user_service import UserService
+from splitwise_system.services.bill_service import BillService
+from splitwise_system.services.group_service import GroupService
+from splitwise_system.services.user_service import UserService
 
 
 class BillMgmtSystem:

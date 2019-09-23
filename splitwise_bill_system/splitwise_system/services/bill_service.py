@@ -1,7 +1,7 @@
-from splitwise_flipkart.models.bill import Bill
-from splitwise_flipkart.services.base_service import BaseService
-from splitwise_flipkart.services.group_service import GroupService
-from splitwise_flipkart.services.user_service import UserService
+from splitwise_system.models.bill import Bill
+from splitwise_system.services.base_service import BaseService
+from splitwise_system.services.group_service import GroupService
+from splitwise_system.services.user_service import UserService
 
 
 class BillService(BaseService):

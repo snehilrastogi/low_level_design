@@ -1,5 +1,5 @@
-from splitwise_flipkart.models.user import User
-from splitwise_flipkart.services.base_service import BaseService
+from splitwise_system.models.user import User
+from splitwise_system.services.base_service import BaseService
 
 
 class UserService(BaseService):
