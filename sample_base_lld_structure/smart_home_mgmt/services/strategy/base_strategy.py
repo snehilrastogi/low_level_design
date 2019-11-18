@@ -1,2 +1,0 @@
-class BaseStrategy(object):
-    pass

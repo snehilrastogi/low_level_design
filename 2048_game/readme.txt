@@ -4,7 +4,7 @@ Code not yet complete
 
 What does it do?
 
-It takes input of rows and cols - create a board with each cell as cell onject (row, col, value)
+It takes input of rows and cols - create a board with each cell as cell object (row, col, value)
 Then it asks for basic initialization (2 positions (row and col))
 
 game starts

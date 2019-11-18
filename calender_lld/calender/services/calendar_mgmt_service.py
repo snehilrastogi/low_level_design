@@ -25,6 +25,7 @@ EVENT_TYPE = {
 
 }
 
+
 class CalendarMgmtService(BaseService):
     def __init__(self, events_list, users_list):
         self.events_list = events_list

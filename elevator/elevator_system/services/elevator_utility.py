@@ -1,5 +1,5 @@
 import random
-from sets import Set
+#from set import Set
 
 from elevator_system import constants
 from elevator_system.services.customer_service import CustomerService
@@ -13,7 +13,7 @@ class ElevatorUtility:
     @classmethod
     def gen_requests(cls, cust_obj_list, total_floors, num_requests=10):
         requests_data = []
-        cust_id_set = Set()
+        cust_id_set = set()
         i = 0
         keep_looping = False
         while (not keep_looping):

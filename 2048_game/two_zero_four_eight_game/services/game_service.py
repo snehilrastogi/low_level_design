@@ -1,6 +1,3 @@
-
-
-
 from two_zero_four_eight_game import constants
 from two_zero_four_eight_game.services.board_service import BoardService
 from two_zero_four_eight_game.utils.fibonacci_util import FibUtil
@@ -13,7 +10,7 @@ class GameService:
         status = False if int(input("Press 0 to exit and any other key to continue")) == 0 else True
         while (status):
             direction_to_move = (input("Enter Direction - L- left  1 , R - Right- 2, U- Up 3 ,D-Down 4"))
-            print direction_to_move
+            print(direction_to_move)
             if direction_to_move == 1:
                 print ("left move")
                 board_obj = GameService.left_move(board_obj)

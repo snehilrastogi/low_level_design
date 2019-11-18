@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbb8cd97-fd91-47c9-affb-494d8e05f5e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../calender_lld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../elevator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2048_game/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../2048_game/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2048_game/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2048_game/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2048_game/two_zero_four_eight_game/services/game_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2048_game/two_zero_four_eight_game/services/game_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calender_lld/.idea/calender_lld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../calender_lld/.idea/calender_lld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calender_lld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../calender_lld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calender_lld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../calender_lld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calender_lld/calender/services/calendar_mgmt_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../calender_lld/calender/services/calendar_mgmt_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elevator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../elevator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elevator/.idea/testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../elevator/.idea/testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elevator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../elevator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elevator/elevator_system/services/elevator_utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../elevator/elevator_system/services/elevator_utility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geektrust_family_problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../geektrust_family_problem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geektrust_family_problem/family_system/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../geektrust_family_problem/family_system/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geektrust_family_problem/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../geektrust_family_problem/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/food_delivery_de_exec_system.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/base_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/strategy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/strategy/base_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/strategy/strategy_factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TciDNZnmy4q93ni6MRaUg4Kbqa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../smart_home" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbb8cd97-fd91-47c9-affb-494d8e05f5e3" name="Default Changelist" comment="" />
+      <created>1573765663773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573765663773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
